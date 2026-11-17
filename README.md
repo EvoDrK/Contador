@@ -82,6 +82,6 @@ La aplicación muestra un contador que inicia en cero. Cada vez que el usuario p
 ![alt text](image-1.png)
 
 ## Fuentes consultadas
-https://flet.dev/
-https://www.pythonguis.com/tutorials/getting-started-flet/
-https://labdeck.com/flet-tutorial/
+- https://flet.dev/
+- https://www.pythonguis.com/tutorials/getting-started-flet/
+- https://labdeck.com/flet-tutorial/
